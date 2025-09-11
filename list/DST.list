@@ -1,8 +1,14 @@
 # 内容：我的饥荒游戏相关
 # 域名关键字匹配
 DOMAIN-SUFFIX,klei.com
-# IP区间匹配
+DOMAIN-SUFFIX,steam.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamcdn.net,DIRECT
+DOMAIN-SUFFIX,store.steampowered.com
+DOMAIN-SUFFIX,play.klei.com
+
+# IP区间匹配（根据需要调整）
 IP-CIDR,130.25.198.0/24,no-resolve
 IP-CIDR,44.101.176.0/24,no-resolve
 IP-CIDR,223.165.20.0/24,no-resolve
-
