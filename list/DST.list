@@ -2,6 +2,7 @@
 # 域名关键字匹配
 DOMAIN-SUFFIX,klei.com
 # IP区间匹配
-IP-CIDR,130.25.198.230/250,no-resolve
-IP-CIDR,44.101.176.250/260,no-resolve
-IP-CIDR,223.165.20.240/260,no-resolve
+IP-CIDR,130.25.198.0/24,no-resolve
+IP-CIDR,44.101.176.0/24,no-resolve
+IP-CIDR,223.165.20.0/24,no-resolve
+
