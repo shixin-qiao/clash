@@ -7,8 +7,17 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamcdn.net,DIRECT
 DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,play.klei.com
+# 内容：远程软件相关
+# AnyDesk
+DOMAIN-SUFFIX,anyDesk.com
 
 # IP区间匹配（根据需要调整）
 IP-CIDR,130.25.198.0/24,no-resolve
 IP-CIDR,44.101.176.0/24,no-resolve
 IP-CIDR,223.165.20.0/24,no-resolve
+IP-CIDR,223.165.20.0/24,no-resolve
+IP-CIDR,62.96.74.120/29,no-resolve
+IP-CIDR,213.61.91.48/29,no-resolve
+IP-CIDR,217.110.18.136/29,no-resolve
+IP-CIDR,217.110.194.192/29,no-resolve
+
